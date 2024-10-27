@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Muhamed_OneDrive</h1> 
+<h1 align="center">🎨 Muhamed_OneDrive</h1>
 
 <div align="center">
   <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="ru" width="25" height="25"></a>
@@ -10,67 +10,67 @@
 
 ![Muhamed_OneDrive](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
-> *Muhamed_OneDrive — інноваційне хмарне сховище, яке пропонує зручність, надійність і швидкість для ефективного обміну файлами та роботи з даними. Це рішення, яке об'єднує розширені функції синхронізації та управління документами з інтуїтивно зрозумілим інтерфейсом, доступним на всіх пристроях.*
+> *Muhamed_OneDrive to innowacyjne rozwiązanie chmurowe, które oferuje wygodę, niezawodność i szybkość w efektywnym udostępnianiu plików i zarządzaniu danymi. To rozwiązanie łączy zaawansowane funkcje synchronizacji i zarządzania dokumentami z intuicyjnym interfejsem dostępnym na wszystkich urządzeniach.*
 
 ---
 
-## 📌 Чому варто обрати Muhamed_OneDrive?
+## 📌 Dlaczego warto wybrać Muhamed_OneDrive?
 
-- **🚀 Висока швидкість** — швидке завантаження та скачування для продуктивної роботи.
-- **💻 Універсальність** — підтримка всіх платформ: веб, iOS, Android, Windows і macOS.
-- **🔒 Багаторівнева безпека** — шифрування даних і двофакторна автентифікація.
-- **🎛 Унікальні функції** — розширені налаштування доступу та автоматичне резервне копіювання для збереження даних.
-
----
-
-## 🎯 Основні можливості
-
-1. **Автоматична синхронізація** між пристроями.
-2. **Налаштування прав доступу** до файлів для підвищення безпеки.
-3. **Гнучкі посилання** для зручного обміну: публічні та приватні.
-4. **Резервне копіювання та відновлення** для надійного зберігання даних.
-5. **Інтеграція з Microsoft Office, Adobe та Google Docs** для легкого редагування документів прямо в хмарі.
+- **🚀 Wysoka prędkość** — szybkie przesyłanie i pobieranie dla produktywnej pracy.
+- **💻 Wszechstronność** — obsługuje wszystkie platformy: web, iOS, Android, Windows i macOS.
+- **🔒 Wiele warstw bezpieczeństwa** — szyfrowanie danych i uwierzytelnianie dwuetapowe.
+- **🎛 Unikalne funkcje** — zaawansowane ustawienia dostępu i automatyczne kopie zapasowe dla bezpieczeństwa danych.
 
 ---
 
-## 🔒 Безпека та конфіденційність
+## 🎯 Kluczowe funkcje
 
-Muhamed_OneDrive пропонує комплексний захист даних:
-- **Багаторівневе шифрування** даних під час передачі та зберігання.
-- **Двофакторна автентифікація** для забезпечення безпеки.
-- **Гнучка настройка доступу** — визначайте рівень захисту для кожного файлу.
-
----
-
-## 💸 Ціни та плани
-
-Muhamed_OneDrive доступний за доступними тарифами:
-- **1 ТБ** — $6.54 на місяць.
-- **3 ТБ** — $7.15 на місяць.
-- **5 ТБ** — $9.54 на місяць.
-
-> Підписка включає всі оновлення та повний доступ до всіх функцій. У майбутньому можливе додавання річних планів.
+1. **Automatyczna synchronizacja** między urządzeniami.
+2. **Ustawienia kontroli dostępu** dla zwiększonego bezpieczeństwa.
+3. **Elastyczne linki** do łatwego udostępniania: publiczne i prywatne.
+4. **Kopie zapasowe i przywracanie** dla bezpiecznego przechowywania danych.
+5. **Integracja z Microsoft Office, Adobe i Google Docs** do łatwego edytowania dokumentów bezpośrednio w chmurze.
 
 ---
 
-## 🔄 Оновлення та підтримка
+## 🔒 Bezpieczeństwo i prywatność
 
-- **Щоквартальні оновлення** для постійного вдосконалення.
-- **Патчі безпеки** випускаються за потреби.
-- **Гарантована доступність** — 99.9% часу роботи сервісу.
-
----
-
-## 📥 **Як замовити Muhamed_OneDrive?**
-
-- Замовити можна **швидко та легко** через нашого [БОТА](https://t.me/ProManagerss_bot), який допоможе оформити підписку.
-- **Підтримка клієнтів**: наша команда завжди на зв'язку, щоб відповісти на будь-які питання про Muhamed_OneDrive.
-
-![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/601155207247725.66d9f201ba38e.gif?raw=true)
+Muhamed_OneDrive oferuje kompleksową ochronę danych:
+- **Szyfrowanie danych na wielu poziomach** dla bezpiecznego przechowywania i przesyłania.
+- **Uwierzytelnianie dwuetapowe** dla zwiększonego bezpieczeństwa.
+- **Możliwość dostosowania kontroli dostępu** — określ poziomy ochrony dla każdego pliku.
 
 ---
 
-🌍 **Слідкуйте за нами в соцмережах!**
+## 💸 Cennik i plany
+
+Muhamed_OneDrive jest dostępny w przystępnych cenach:
+- **1 TB** — 6,54 USD miesięcznie.
+- **3 TB** — 7,15 USD miesięcznie.
+- **5 TB** — 9,54 USD miesięcznie.
+
+> Subskrypcja obejmuje wszystkie aktualizacje i pełny dostęp do wszystkich funkcji. W przyszłości mogą zostać dodane plany roczne.
+
+---
+
+## 🔄 Aktualizacje i wsparcie
+
+- **Kwartalne aktualizacje** dla ciągłego doskonalenia.
+- **Poprawki bezpieczeństwa** wydawane w razie potrzeby.
+- **Gwarantowany czas pracy** — 99,9% dostępności usługi.
+
+---
+
+## 📥 **Jak zamówić Muhamed_OneDrive?**
+
+- Możesz złożyć zamówienie **szybko i łatwo** przez nasz [BOT](https://t.me/ProManagerss_bot), który przeprowadzi cię przez proces subskrypcyjny.
+- **Wsparcie klienta**: nasz zespół jest zawsze dostępny, aby odpowiedzieć na wszelkie pytania dotyczące Muhamed_OneDrive.
+
+![Pakiety Kreatywne](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/601155207247725.66d9f201ba38e.gif?raw=true)
+
+---
+
+🌍 **Śledź nas w mediach społecznościowych!**
 <div align="center">
   <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Facebook.png?raw=true" alt="Facebook" width="50" height="50"></a>
   <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Instagram.png?raw=true" alt="Instagram" width="50" height="50"></a>
@@ -84,9 +84,9 @@ Muhamed_OneDrive доступний за доступними тарифами:
 
 ---
 
-## 🙏 **Подяки**
+## 🙏 **Podziękowania**
 
-**Дякуємо** всім нашим користувачам за підтримку! Ми цінуємо вашу довіру і завжди готові відповісти на ваші питання та розглянути пропозиції. 📬
+**Dziękujemy** wszystkim naszym użytkownikom za wsparcie! Cenimy sobie zaufanie i zawsze jesteśmy dostępni, aby odpowiedzieć na wszelkie pytania i rozważyć sugestie. 📬
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/images.jpg?raw=true" width="60" height="60" />

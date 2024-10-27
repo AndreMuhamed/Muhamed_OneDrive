@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Muhamed_OneDrive</h1> 
+<h1 align="center">🎨 Muhamed_OneDrive</h1>
 
 <div align="center">
   <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="ru" width="25" height="25"></a>
@@ -10,67 +10,67 @@
 
 ![Muhamed_OneDrive](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
-> *Muhamed_OneDrive — інноваційне хмарне сховище, яке пропонує зручність, надійність і швидкість для ефективного обміну файлами та роботи з даними. Це рішення, яке об'єднує розширені функції синхронізації та управління документами з інтуїтивно зрозумілим інтерфейсом, доступним на всіх пристроях.*
+> *Muhamed_OneDrive is an innovative cloud storage solution offering convenience, reliability, and speed for efficient file sharing and data management. This solution combines advanced synchronization and document management features with an intuitive interface available across all devices.*
 
 ---
 
-## 📌 Чому варто обрати Muhamed_OneDrive?
+## 📌 Why Choose Muhamed_OneDrive?
 
-- **🚀 Висока швидкість** — швидке завантаження та скачування для продуктивної роботи.
-- **💻 Універсальність** — підтримка всіх платформ: веб, iOS, Android, Windows і macOS.
-- **🔒 Багаторівнева безпека** — шифрування даних і двофакторна автентифікація.
-- **🎛 Унікальні функції** — розширені налаштування доступу та автоматичне резервне копіювання для збереження даних.
-
----
-
-## 🎯 Основні можливості
-
-1. **Автоматична синхронізація** між пристроями.
-2. **Налаштування прав доступу** до файлів для підвищення безпеки.
-3. **Гнучкі посилання** для зручного обміну: публічні та приватні.
-4. **Резервне копіювання та відновлення** для надійного зберігання даних.
-5. **Інтеграція з Microsoft Office, Adobe та Google Docs** для легкого редагування документів прямо в хмарі.
+- **🚀 High Speed** — fast upload and download for productive work.
+- **💻 Versatility** — supports all platforms: web, iOS, Android, Windows, and macOS.
+- **🔒 Multi-layer Security** — data encryption and two-factor authentication.
+- **🎛 Unique Features** — advanced access settings and automatic backups for data safety.
 
 ---
 
-## 🔒 Безпека та конфіденційність
+## 🎯 Key Features
 
-Muhamed_OneDrive пропонує комплексний захист даних:
-- **Багаторівневе шифрування** даних під час передачі та зберігання.
-- **Двофакторна автентифікація** для забезпечення безпеки.
-- **Гнучка настройка доступу** — визначайте рівень захисту для кожного файлу.
-
----
-
-## 💸 Ціни та плани
-
-Muhamed_OneDrive доступний за доступними тарифами:
-- **1 ТБ** — $6.54 на місяць.
-- **3 ТБ** — $7.15 на місяць.
-- **5 ТБ** — $9.54 на місяць.
-
-> Підписка включає всі оновлення та повний доступ до всіх функцій. У майбутньому можливе додавання річних планів.
+1. **Automatic synchronization** between devices.
+2. **Access control settings** for enhanced security.
+3. **Flexible links** for easy sharing: public and private.
+4. **Backup and restore** for secure data storage.
+5. **Integration with Microsoft Office, Adobe, and Google Docs** for easy document editing directly in the cloud.
 
 ---
 
-## 🔄 Оновлення та підтримка
+## 🔒 Security and Privacy
 
-- **Щоквартальні оновлення** для постійного вдосконалення.
-- **Патчі безпеки** випускаються за потреби.
-- **Гарантована доступність** — 99.9% часу роботи сервісу.
+Muhamed_OneDrive offers comprehensive data protection:
+- **Multi-level data encryption** for secure storage and transmission.
+- **Two-factor authentication** for enhanced security.
+- **Customizable access control** — define protection levels for each file.
 
 ---
 
-## 📥 **Як замовити Muhamed_OneDrive?**
+## 💸 Pricing and Plans
 
-- Замовити можна **швидко та легко** через нашого [БОТА](https://t.me/ProManagerss_bot), який допоможе оформити підписку.
-- **Підтримка клієнтів**: наша команда завжди на зв'язку, щоб відповісти на будь-які питання про Muhamed_OneDrive.
+Muhamed_OneDrive is available at affordable rates:
+- **1 TB** — $6.54 per month.
+- **3 TB** — $7.15 per month.
+- **5 TB** — $9.54 per month.
+
+> Subscription includes all updates and full access to all features. Annual plans may be added in the future.
+
+---
+
+## 🔄 Updates and Support
+
+- **Quarterly updates** for continuous improvement.
+- **Security patches** are released as needed.
+- **Guaranteed uptime** — 99.9% service availability.
+
+---
+
+## 📥 **How to Order Muhamed_OneDrive?**
+
+- You can place an order **quickly and easily** through our [BOT](https://t.me/ProManagerss_bot), which will guide you through the subscription process.
+- **Customer Support**: our team is always available to answer any questions about Muhamed_OneDrive.
 
 ![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/601155207247725.66d9f201ba38e.gif?raw=true)
 
 ---
 
-🌍 **Слідкуйте за нами в соцмережах!**
+🌍 **Follow Us on Social Media!**
 <div align="center">
   <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Facebook.png?raw=true" alt="Facebook" width="50" height="50"></a>
   <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Instagram.png?raw=true" alt="Instagram" width="50" height="50"></a>
@@ -84,9 +84,9 @@ Muhamed_OneDrive доступний за доступними тарифами:
 
 ---
 
-## 🙏 **Подяки**
+## 🙏 **Acknowledgments**
 
-**Дякуємо** всім нашим користувачам за підтримку! Ми цінуємо вашу довіру і завжди готові відповісти на ваші питання та розглянути пропозиції. 📬
+**Thank you** to all our users for your support! We value your trust and are always available to answer any questions and consider suggestions. 📬
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/images.jpg?raw=true" width="60" height="60" />
