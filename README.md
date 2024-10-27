@@ -1,14 +1,14 @@
 <h1 align="center">🎨 Muhamed_OneDrive</h1> 
 
 <div align="center">
-  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="ru" width="25" height="25"></a>
-  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_Ukrainian.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="ua" width="25" height="25"></a>
-  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_English.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="en" width="25" height="25"></a>
-  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_Canadian.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298562_canada_canada.png?raw=true" alt="cn" width="25" height="25"></a>
-  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_Polish.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298479_poland_poland.png?raw=true" alt="pl" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="ua" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README_Russia.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/Language/298434_russia_russia.png?raw=true" alt="ru" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README_English.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="en" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README_Canadian.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298562_canada_canada.png?raw=true" alt="cn" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README_Polish.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298479_poland_poland.png?raw=true" alt="pl" width="25" height="25"></a>
 </div>
 
-![Muhamed_OneDrive](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
+![Muhamed_OneDrive](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyUA.jpg?raw=true)
 
 > *Muhamed_OneDrive — інноваційне хмарне сховище, яке пропонує зручність, надійність і швидкість для ефективного обміну файлами та роботи з даними. Це рішення, яке об'єднує розширені функції синхронізації та управління документами з інтуїтивно зрозумілим інтерфейсом, доступним на всіх пристроях.*
 
